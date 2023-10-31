@@ -1,0 +1,26 @@
+.text_1 {
+    font-family: 'Open Sans', 'Montserrat', sans-serif;
+    font-size: 20px;
+    /* font-weight: 300;  Обязательно задавать жирность, если в подключаемом семействе шрифтов и так она указана?*/
+    line-height: 30px;
+}
+
+.text_2 {
+    text-decoration: line-through;
+}
+
+.text_3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text_4 {
+    color: purple;
+    text-decoration: overline wavy;
+    word-spacing: 30px;
+}
+
+.text_5 {
+    letter-spacing: 5px;
+    text-decoration: underline double;
+}
