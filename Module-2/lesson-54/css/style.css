@@ -1,0 +1,26 @@
+body {
+    font-size: 36px;
+    font-weight: 400;
+    color: #fff;
+    background: gray;
+}
+
+.white-block {
+    position: fixed;
+    left: 50%;
+    bottom: 100px;
+    background: #fff;
+    width: 700px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.white-block__circle {
+    position: absolute;
+    top: -50px;
+    left: 100px;
+    background: red;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
